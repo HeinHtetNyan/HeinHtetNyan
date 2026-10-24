@@ -1,9 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=160&section=header&text=Hein%20Htet%20Nyan&fontColor=ffffff&fontSize=44" alt="Hein Htet Nyan banner" />
+<img src="banner.svg" alt="Hi, I'm Hein Htet Nyan - Full-Stack and Mobile Developer" width="100%" />
 
-**Full-Stack and Mobile Developer**<br>
-Python · FastAPI · React · Flutter · PostgreSQL
+**Python · FastAPI · React · Flutter · PostgreSQL**
 
 Full-stack developer who ships complete systems:<br>
 APIs, web interfaces and mobile apps, from the database to deployment.
@@ -52,7 +51,7 @@ Docker-based deployment and releases for web, Android and Windows apps.
 
 ## Technologies I work with
 
-<table>
+<table width="100%">
 <tr><td><b>Server and data</b></td><td>
 <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
@@ -82,15 +81,11 @@ Docker-based deployment and releases for web, Android and Windows apps.
 
 ## Technologies I want to learn more
 
-<img src="https://img.shields.io/badge/Test%20automation-64748b?style=flat-square" />
-<img src="https://img.shields.io/badge/Application%20security-64748b?style=flat-square" />
+<img src="https://img.shields.io/badge/Test%20automation-64748b?style=flat-square" /> <img src="https://img.shields.io/badge/Application%20security-64748b?style=flat-square" />
 
 ## Technologies I am familiar with
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" /> <img src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 
 ## Experience
 
@@ -107,9 +102,7 @@ Docker-based deployment and releases for web, Android and Windows apps.
 
 ## Location
 
-I am based in Pathum Thani, Thailand.
-
-I speak Burmese and English.
+I am based in Pathum Thani, Thailand, and I speak Burmese and English.
 
 ## Public projects
 

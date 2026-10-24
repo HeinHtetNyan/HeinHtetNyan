@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200" role="img" aria-label="Hi, I'm Hein Htet Nyan. Full-Stack and Mobile Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#6366f1"/>
+    </linearGradient>
+    <path id="wave" d="M0 0 C 125 -22, 250 22, 375 0 S 625 -22, 750 0 S 1000 22, 1125 0 S 1375 -22, 1500 0 S 1750 22, 1875 0 S 2125 -22, 2250 0 L 2250 120 L 0 120 Z"/>
+    <clipPath id="frame"><rect width="1000" height="200"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1000" height="200" fill="url(#bg)"/>
+    <g opacity="0.18" transform="translate(0 150)">
+      <use href="#wave" fill="#ffffff">
+        <animateTransform attributeName="transform" type="translate" from="0 0" to="-750 0" dur="14s" repeatCount="indefinite"/>
+      </use>
+    </g>
+    <g opacity="0.14" transform="translate(0 164)">
+      <use href="#wave" fill="#ffffff">
+        <animateTransform attributeName="transform" type="translate" from="-750 0" to="0 0" dur="10s" repeatCount="indefinite"/>
+      </use>
+    </g>
+    <text x="500" y="88" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="46" font-weight="700">Hi, I'm Hein Htet Nyan
+      <animate attributeName="opacity" from="0" to="1" dur="1.2s" fill="freeze"/>
+    </text>
+    <text x="500" y="130" text-anchor="middle" fill="#e0e7ff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22">Full-Stack &amp; Mobile Developer
+      <animate attributeName="opacity" from="0" to="1" begin="0.6s" dur="1.2s" fill="freeze"/>
+    </text>
+  </g>
+</svg>
