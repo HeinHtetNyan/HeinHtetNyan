@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=160&section=header&text=Hein%20Htet%20Nyan&fontColor=ffffff&fontSize=44" alt="Hein Htet Nyan banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=160&section=header&text=Hein%20Htet%20Nyan&fontColor=ffffff&fontSize=44" alt="Hi, I'm Hein Htet Nyan banner" />
 
 **Full-Stack and Mobile Developer**<br>
 Python · FastAPI · React · Flutter · PostgreSQL
