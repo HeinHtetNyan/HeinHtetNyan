@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=190&section=header&text=Hi%2C%20I%27m%20Hein%20Htet%20Nyan&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=Full-Stack%20%26%20Mobile%20Developer&descAlignY=60&descSize=18" alt="Hein Htet Nyan banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=160&section=header&text=Hein%20Htet%20Nyan&fontColor=ffffff&fontSize=44" alt="Hein Htet Nyan banner" />
 
-**Python · FastAPI · React · Flutter · PostgreSQL**
+**Full-Stack and Mobile Developer**<br>
+Python · FastAPI · React · Flutter · PostgreSQL
 
 Full-stack developer who ships complete systems:<br>
 APIs, web interfaces and mobile apps, from the database to deployment.
